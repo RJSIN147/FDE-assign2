@@ -128,7 +128,3 @@ The script reuses an existing raw download unless I pass `--force-retrieve`. It 
 ## Things this project cannot answer
 
 This is only Yellow Taxi data. It does not include green taxis, Uber/Lyft, customer requests, cancellations, traffic data, route geometry, or customer waiting time. I list the rest of my assumptions and limitations in [known_unknown_assumptions_limitations.md](docs/known_unknown_assumptions_limitations.md).
-
-## Demo
-
-I wrote a short [demo_script.md](docs/demo_script.md) for the required 3–5 minute walkthrough. My main FDE judgement call to explain is why I used journey time and did not pretend it was wait time.
