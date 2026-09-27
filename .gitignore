@@ -1,0 +1,13 @@
+.venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+
+# Live inputs and generated run artefacts can be large. The compact fixtures stay versioned.
+data/raw/month=*/
+data/outputs/
+data/quality_failures/
+data/logs/
+data/locks/
+!data/raw/fixtures/
+!data/raw/fixtures/**

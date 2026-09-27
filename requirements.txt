@@ -1,0 +1,2 @@
+# Only required for live TLC PARQUET input. The fixture pipeline and tests otherwise use the standard library.
+pyarrow>=15,<20

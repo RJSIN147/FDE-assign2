@@ -1,0 +1,11 @@
+[
+  {"location_id": "48", "borough": "Manhattan", "zone": "Clinton East", "service_zone": "Yellow Zone"},
+  {"location_id": "79", "borough": "Manhattan", "zone": "East Village", "service_zone": "Yellow Zone"},
+  {"location_id": "100", "borough": "Manhattan", "zone": "Garment District", "service_zone": "Yellow Zone"},
+  {"location_id": "132", "borough": "Queens", "zone": "JFK Airport", "service_zone": "Airports"},
+  {"location_id": "138", "borough": "Queens", "zone": "LaGuardia Airport", "service_zone": "Airports"},
+  {"location_id": "161", "borough": "Manhattan", "zone": "Midtown Center", "service_zone": "Yellow Zone"},
+  {"location_id": "186", "borough": "Manhattan", "zone": "Penn Station/Madison Sq West", "service_zone": "Yellow Zone"},
+  {"location_id": "230", "borough": "Manhattan", "zone": "Times Sq/Theatre District", "service_zone": "Yellow Zone"},
+  {"location_id": "237", "borough": "Manhattan", "zone": "Upper East Side South", "service_zone": "Yellow Zone"}
+]
